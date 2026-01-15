@@ -1,0 +1,3189 @@
+[
+  {
+    "configurations": [],
+    "description": "1st gen",
+    "id": "iPhone1,1",
+    "name": "iPhone",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 480,
+      "physical_width": 320,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone1,2",
+    "name": "iPhone 3G",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 480,
+      "physical_width": 320,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone2,1",
+    "name": "iPhone 3GS",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 480,
+      "physical_width": 320,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone3,1",
+    "name": "iPhone 4",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 960,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM Rev A",
+    "id": "iPhone3,2",
+    "name": "iPhone 4",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 960,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "CDMA",
+    "id": "iPhone3,3",
+    "name": "iPhone 4",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 960,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone4,1",
+    "name": "iPhone 4S",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 960,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM",
+    "id": "iPhone5,1",
+    "name": "iPhone 5",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM+CDMA",
+    "id": "iPhone5,2",
+    "name": "iPhone 5",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM",
+    "id": "iPhone5,3",
+    "name": "iPhone 5C",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "Global",
+    "id": "iPhone5,4",
+    "name": "iPhone 5C",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM",
+    "id": "iPhone6,1",
+    "name": "iPhone 5S",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "Global",
+    "id": "iPhone6,2",
+    "name": "iPhone 5S",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone7,1",
+    "name": "iPhone 6 Plus",
+    "screen": {
+      "diagonal": 5.5,
+      "logical_height": 736,
+      "logical_width": 414,
+      "physical_height": 1920,
+      "physical_width": 1080,
+      "ppi": 401
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone7,2",
+    "name": "iPhone 6",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone8,1",
+    "name": "iPhone 6s",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone8,2",
+    "name": "iPhone 6s Plus",
+    "screen": {
+      "diagonal": 5.5,
+      "logical_height": 736,
+      "logical_width": 414,
+      "physical_height": 1920,
+      "physical_width": 1080,
+      "ppi": 401
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone8,4",
+    "name": "iPhone SE (1st generation)",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone9,1",
+    "name": "iPhone 7",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone9,2",
+    "name": "iPhone 7 Plus",
+    "screen": {
+      "diagonal": 5.5,
+      "logical_height": 736,
+      "logical_width": 414,
+      "physical_height": 1920,
+      "physical_width": 1080,
+      "ppi": 401
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone9,3",
+    "name": "iPhone 7",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone9,4",
+    "name": "iPhone 7 Plus",
+    "screen": {
+      "diagonal": 5.5,
+      "logical_height": 736,
+      "logical_width": 414,
+      "physical_height": 1920,
+      "physical_width": 1080,
+      "ppi": 401
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone10,1",
+    "name": "iPhone 8",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone10,2",
+    "name": "iPhone 8 Plus",
+    "screen": {
+      "diagonal": 5.5,
+      "logical_height": 736,
+      "logical_width": 414,
+      "physical_height": 1920,
+      "physical_width": 1080,
+      "ppi": 401
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM",
+    "id": "iPhone10,3",
+    "name": "iPhone X",
+    "screen": {
+      "diagonal": 5.85,
+      "logical_height": 812,
+      "logical_width": 375,
+      "physical_height": 2436,
+      "physical_width": 1125,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone10,4",
+    "name": "iPhone 8",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone10,5",
+    "name": "iPhone 8 Plus",
+    "screen": {
+      "diagonal": 5.5,
+      "logical_height": 736,
+      "logical_width": 414,
+      "physical_height": 1920,
+      "physical_width": 1080,
+      "ppi": 401
+    }
+  },
+  {
+    "configurations": [],
+    "description": "Global",
+    "id": "iPhone10,6",
+    "name": "iPhone X",
+    "screen": {
+      "diagonal": 5.85,
+      "logical_height": 812,
+      "logical_width": 375,
+      "physical_height": 2436,
+      "physical_width": 1125,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone11,2",
+    "name": "iPhone XS",
+    "screen": {
+      "diagonal": 5.85,
+      "logical_height": 812,
+      "logical_width": 375,
+      "physical_height": 2436,
+      "physical_width": 1125,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone11,4",
+    "name": "iPhone XS Max",
+    "screen": {
+      "diagonal": 6.46,
+      "logical_height": 896,
+      "logical_width": 414,
+      "physical_height": 2688,
+      "physical_width": 1242,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": "Global",
+    "id": "iPhone11,6",
+    "name": "iPhone XS Max",
+    "screen": {
+      "diagonal": 6.46,
+      "logical_height": 896,
+      "logical_width": 414,
+      "physical_height": 2688,
+      "physical_width": 1242,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone11,8",
+    "name": "iPhone XR",
+    "screen": {
+      "diagonal": 6.06,
+      "logical_height": 896,
+      "logical_width": 414,
+      "physical_height": 1792,
+      "physical_width": 828,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone12,1",
+    "name": "iPhone 11",
+    "screen": {
+      "diagonal": 6.1,
+      "logical_height": 896,
+      "logical_width": 414,
+      "physical_height": 1792,
+      "physical_width": 828,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone12,3",
+    "name": "iPhone 11 Pro",
+    "screen": {
+      "diagonal": 5.85,
+      "logical_height": 812,
+      "logical_width": 375,
+      "physical_height": 2436,
+      "physical_width": 1125,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone12,5",
+    "name": "iPhone 11 Pro Max",
+    "screen": {
+      "diagonal": 6.46,
+      "logical_height": 896,
+      "logical_width": 414,
+      "physical_height": 2688,
+      "physical_width": 1242,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone12,8",
+    "name": "iPhone SE (2nd generation)",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone13,1",
+    "name": "iPhone 12 mini",
+    "screen": {
+      "diagonal": 5.42,
+      "logical_height": 812,
+      "logical_width": 375,
+      "physical_height": 2340,
+      "physical_width": 1080,
+      "ppi": 476
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone13,2",
+    "name": "iPhone 12",
+    "screen": {
+      "diagonal": 6.06,
+      "logical_height": 844,
+      "logical_width": 390,
+      "physical_height": 2532,
+      "physical_width": 1170,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone13,3",
+    "name": "iPhone 12 Pro",
+    "screen": {
+      "diagonal": 6.06,
+      "logical_height": 844,
+      "logical_width": 390,
+      "physical_height": 2532,
+      "physical_width": 1170,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone13,4",
+    "name": "iPhone 12 Pro Max",
+    "screen": {
+      "diagonal": 6.68,
+      "logical_height": 926,
+      "logical_width": 428,
+      "physical_height": 2778,
+      "physical_width": 1284,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone14,2",
+    "name": "iPhone 13 Pro",
+    "screen": {
+      "diagonal": 6.06,
+      "logical_height": 844,
+      "logical_width": 390,
+      "physical_height": 2532,
+      "physical_width": 1170,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone14,3",
+    "name": "iPhone 13 Pro Max",
+    "screen": {
+      "diagonal": 6.68,
+      "logical_height": 926,
+      "logical_width": 428,
+      "physical_height": 2778,
+      "physical_width": 1284,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone14,4",
+    "name": "iPhone 13 mini",
+    "screen": {
+      "diagonal": 5.42,
+      "logical_height": 812,
+      "logical_width": 375,
+      "physical_height": 2340,
+      "physical_width": 1080,
+      "ppi": 476
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone14,5",
+    "name": "iPhone 13",
+    "screen": {
+      "diagonal": 6.06,
+      "logical_height": 844,
+      "logical_width": 390,
+      "physical_height": 2532,
+      "physical_width": 1170,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone14,6",
+    "name": "iPhone SE (3rd generation)",
+    "screen": {
+      "diagonal": 4.7,
+      "logical_height": 667,
+      "logical_width": 375,
+      "physical_height": 1334,
+      "physical_width": 750,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone14,7",
+    "name": "iPhone 14",
+    "screen": {
+      "diagonal": 6.1,
+      "logical_height": 844,
+      "logical_width": 390,
+      "physical_height": 2532,
+      "physical_width": 1170,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone14,8",
+    "name": "iPhone 14 Plus",
+    "screen": {
+      "diagonal": 6.7,
+      "logical_height": 926,
+      "logical_width": 428,
+      "physical_height": 2778,
+      "physical_width": 1284,
+      "ppi": 458
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone15,2",
+    "name": "iPhone 14 Pro",
+    "screen": {
+      "diagonal": 6.1,
+      "logical_height": 852,
+      "logical_width": 393,
+      "physical_height": 2556,
+      "physical_width": 1179,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone15,3",
+    "name": "iPhone 14 Pro Max",
+    "screen": {
+      "diagonal": 6.7,
+      "logical_height": 932,
+      "logical_width": 430,
+      "physical_height": 2796,
+      "physical_width": 1290,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone15,4",
+    "name": "iPhone 15",
+    "screen": {
+      "diagonal": 6.1,
+      "logical_height": 852,
+      "logical_width": 393,
+      "physical_height": 2556,
+      "physical_width": 1179,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone15,5",
+    "name": "iPhone 15 Plus",
+    "screen": {
+      "diagonal": 6.7,
+      "logical_height": 932,
+      "logical_width": 430,
+      "physical_height": 2796,
+      "physical_width": 1290,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone16,1",
+    "name": "iPhone 15 Pro",
+    "screen": {
+      "diagonal": 6.1,
+      "logical_height": 852,
+      "logical_width": 393,
+      "physical_height": 2556,
+      "physical_width": 1179,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone16,2",
+    "name": "iPhone 15 Pro Max",
+    "screen": {
+      "diagonal": 6.7,
+      "logical_height": 932,
+      "logical_width": 430,
+      "physical_height": 2796,
+      "physical_width": 1290,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone17,1",
+    "name": "iPhone 16 Pro",
+    "screen": {
+      "diagonal": 6.3,
+      "logical_height": 874,
+      "logical_width": 402,
+      "physical_height": 2622,
+      "physical_width": 1206,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone17,2",
+    "name": "iPhone 16 Pro Max",
+    "screen": {
+      "diagonal": 6.9,
+      "logical_height": 956,
+      "logical_width": 440,
+      "physical_height": 2868,
+      "physical_width": 1320,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone17,3",
+    "name": "iPhone 16",
+    "screen": {
+      "diagonal": 6.1,
+      "logical_height": 852,
+      "logical_width": 393,
+      "physical_height": 2556,
+      "physical_width": 1179,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone17,4",
+    "name": "iPhone 16 Plus",
+    "screen": {
+      "diagonal": 6.7,
+      "logical_height": 932,
+      "logical_width": 430,
+      "physical_height": 2796,
+      "physical_width": 1290,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone17,5",
+    "name": "iPhone 16e",
+    "screen": {
+      "diagonal": 6.1,
+      "logical_height": 844,
+      "logical_width": 390,
+      "physical_height": 2532,
+      "physical_width": 1170,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone18,1",
+    "name": "iPhone 17 Pro",
+    "screen": {
+      "diagonal": 6.3,
+      "logical_height": 874,
+      "logical_width": 402,
+      "physical_height": 2622,
+      "physical_width": 1206,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone18,2",
+    "name": "iPhone 17 Pro Max",
+    "screen": {
+      "diagonal": 6.9,
+      "logical_height": 956,
+      "logical_width": 440,
+      "physical_height": 2868,
+      "physical_width": 1320,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone18,3",
+    "name": "iPhone 17",
+    "screen": {
+      "diagonal": 6.3,
+      "logical_height": 874,
+      "logical_width": 402,
+      "physical_height": 2622,
+      "physical_width": 1206,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPhone18,4",
+    "name": "iPhone Air",
+    "screen": {
+      "diagonal": 6.5,
+      "logical_height": 912,
+      "logical_width": 420,
+      "physical_height": 2736,
+      "physical_width": 1260,
+      "ppi": 460
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPod1,1",
+    "name": "iPod touch (1st generation)",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 480,
+      "physical_width": 320,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPod2,1",
+    "name": "iPod touch (2nd generation)",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 480,
+      "physical_width": 320,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPod3,1",
+    "name": "iPod touch (3rd generation)",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 480,
+      "physical_width": 320,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPod4,1",
+    "name": "iPod touch (4th generation)",
+    "screen": {
+      "diagonal": 3.5,
+      "logical_height": 480,
+      "logical_width": 320,
+      "physical_height": 960,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPod5,1",
+    "name": "iPod touch (5th generation)",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPod7,1",
+    "name": "iPod touch (6th generation)",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPod9,1",
+    "name": "iPod touch (7th generation)",
+    "screen": {
+      "diagonal": 4,
+      "logical_height": 568,
+      "logical_width": 320,
+      "physical_height": 1136,
+      "physical_width": 640,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [
+      {
+        "description": "Wi-Fi",
+        "number": "A1219"
+      },
+      {
+        "description": "Wi-Fi/3G/GPS",
+        "number": "A1337"
+      }
+    ],
+    "description": "1st generation",
+    "id": "iPad1,1",
+    "name": "iPad",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 132
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPad2,1",
+    "name": "iPad 2",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 132
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM",
+    "id": "iPad2,2",
+    "name": "iPad 2",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 132
+    }
+  },
+  {
+    "configurations": [],
+    "description": "CDMA",
+    "id": "iPad2,3",
+    "name": "iPad 2",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 132
+    }
+  },
+  {
+    "configurations": [],
+    "description": "New Revision",
+    "id": "iPad2,4",
+    "name": "iPad 2",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 132
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPad2,5",
+    "name": "iPad mini",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM+LTE",
+    "id": "iPad2,6",
+    "name": "iPad mini",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": "CDMA+LTE",
+    "id": "iPad2,7",
+    "name": "iPad mini",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 1024,
+      "physical_width": 768,
+      "ppi": 163
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad3,1",
+    "name": "iPad (3rd generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "CDMA",
+    "id": "iPad3,2",
+    "name": "iPad (3rd generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM",
+    "id": "iPad3,3",
+    "name": "iPad (3rd generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPad3,4",
+    "name": "iPad (4th generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM+LTE",
+    "id": "iPad3,5",
+    "name": "iPad (4th generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "CDMA+LTE",
+    "id": "iPad3,6",
+    "name": "iPad (4th generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad4,1",
+    "name": "iPad Air",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "Wi-Fi/Cellular",
+    "id": "iPad4,2",
+    "name": "iPad Air",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "China",
+    "id": "iPad4,3",
+    "name": "iPad Air",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad4,4",
+    "name": "iPad mini 2",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM+CDMA",
+    "id": "iPad4,5",
+    "name": "iPad mini 2",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "China",
+    "id": "iPad4,6",
+    "name": "iPad mini 2",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad4,7",
+    "name": "iPad mini 3",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GSM+CDMA",
+    "id": "iPad4,8",
+    "name": "iPad mini 3",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "China",
+    "id": "iPad4,9",
+    "name": "iPad mini 3",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad5,1",
+    "name": "iPad mini 4",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad5,2",
+    "name": "iPad mini 4",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad5,3",
+    "name": "iPad Air 2",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "Cellular",
+    "id": "iPad5,4",
+    "name": "iPad Air 2",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad6,3",
+    "name": "iPad Pro 9.7-inch",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+LTE",
+    "id": "iPad6,4",
+    "name": "iPad Pro 9.7-inch",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad6,7",
+    "name": "iPad Pro 12.9-inch",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+LTE",
+    "id": "iPad6,8",
+    "name": "iPad Pro 12.9-inch",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad6,11",
+    "name": "iPad (5th generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad6,12",
+    "name": "iPad (5th generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad7,1",
+    "name": "iPad Pro 12.9-inch (2nd generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad7,2",
+    "name": "iPad Pro 12.9-inch (2nd generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad7,3",
+    "name": "iPad Pro 10.5-inch",
+    "screen": {
+      "diagonal": 10.5,
+      "logical_height": 1112,
+      "logical_width": 834,
+      "physical_height": 2224,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad7,4",
+    "name": "iPad Pro 10.5-inch",
+    "screen": {
+      "diagonal": 10.5,
+      "logical_height": 1112,
+      "logical_width": 834,
+      "physical_height": 2224,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad7,5",
+    "name": "iPad (6th generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad7,6",
+    "name": "iPad (6th generation)",
+    "screen": {
+      "diagonal": 9.7,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad7,11",
+    "name": "iPad (7th generation)",
+    "screen": {
+      "diagonal": 10.2,
+      "logical_height": 1080,
+      "logical_width": 810,
+      "physical_height": 2160,
+      "physical_width": 1620,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad7,12",
+    "name": "iPad (7th generation)",
+    "screen": {
+      "diagonal": 10.2,
+      "logical_height": 1080,
+      "logical_width": 810,
+      "physical_height": 2160,
+      "physical_width": 1620,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad8,1",
+    "name": "iPad Pro 11-inch",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "1TB, WiFi",
+    "id": "iPad8,2",
+    "name": "iPad Pro 11-inch",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad8,3",
+    "name": "iPad Pro 11-inch",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "1TB, WiFi+Cellular",
+    "id": "iPad8,4",
+    "name": "iPad Pro 11-inch",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad8,5",
+    "name": "iPad Pro 12.9-inch (3rd generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "1TB, WiFi",
+    "id": "iPad8,6",
+    "name": "iPad Pro 12.9-inch (3rd generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad8,7",
+    "name": "iPad Pro 12.9-inch (3rd generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "1TB, WiFi+Cellular",
+    "id": "iPad8,8",
+    "name": "iPad Pro 12.9-inch (3rd generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad8,9",
+    "name": "iPad Pro 11-inch (2nd generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad8,10",
+    "name": "iPad Pro 11-inch (2nd generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad8,11",
+    "name": "iPad Pro 12.9-inch (4th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad8,12",
+    "name": "iPad Pro 12.9-inch (4th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad11,1",
+    "name": "iPad mini (5th generation)",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad11,2",
+    "name": "iPad mini (5th generation)",
+    "screen": {
+      "diagonal": 7.9,
+      "logical_height": 1024,
+      "logical_width": 768,
+      "physical_height": 2048,
+      "physical_width": 1536,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad11,3",
+    "name": "iPad Air (3rd generation)",
+    "screen": {
+      "diagonal": 10.5,
+      "logical_height": 1112,
+      "logical_width": 834,
+      "physical_height": 2224,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad11,4",
+    "name": "iPad Air (3rd generation)",
+    "screen": {
+      "diagonal": 10.5,
+      "logical_height": 1112,
+      "logical_width": 834,
+      "physical_height": 2224,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad11,6",
+    "name": "iPad (8th generation)",
+    "screen": {
+      "diagonal": 10.2,
+      "logical_height": 1080,
+      "logical_width": 810,
+      "physical_height": 2160,
+      "physical_width": 1620,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad11,7",
+    "name": "iPad (8th generation)",
+    "screen": {
+      "diagonal": 10.2,
+      "logical_height": 1080,
+      "logical_width": 810,
+      "physical_height": 2160,
+      "physical_width": 1620,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad12,1",
+    "name": "iPad (9th generation)",
+    "screen": {
+      "diagonal": 10.2,
+      "logical_height": 1080,
+      "logical_width": 810,
+      "physical_height": 2160,
+      "physical_width": 1620,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad12,2",
+    "name": "iPad (9th generation)",
+    "screen": {
+      "diagonal": 10.2,
+      "logical_height": 1080,
+      "logical_width": 810,
+      "physical_height": 2160,
+      "physical_width": 1620,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad13,1",
+    "name": "iPad Air (4th generation)",
+    "screen": {
+      "diagonal": 10.9,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad13,2",
+    "name": "iPad Air (4th generation)",
+    "screen": {
+      "diagonal": 10.9,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad13,4",
+    "name": "iPad Pro 11-inch (3rd generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "US, WiFi+Cellular",
+    "id": "iPad13,5",
+    "name": "iPad Pro 11-inch (3rd generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "Global, WiFi+Cellular",
+    "id": "iPad13,6",
+    "name": "iPad Pro 11-inch (3rd generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "China, WiFi+Cellular",
+    "id": "iPad13,7",
+    "name": "iPad Pro 11-inch (3rd generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPad13,8",
+    "name": "iPad Pro 12.9-inch (5th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPad13,9",
+    "name": "iPad Pro 12.9-inch (5th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPad13,10",
+    "name": "iPad Pro 12.9-inch (5th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "iPad13,11",
+    "name": "iPad Pro 12.9-inch (5th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad13,16",
+    "name": "iPad Air (5th generation)",
+    "screen": {
+      "diagonal": 10.9,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad13,17",
+    "name": "iPad Air (5th generation)",
+    "screen": {
+      "diagonal": 10.9,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad13,18",
+    "name": "iPad (10th generation)",
+    "screen": {
+      "diagonal": 10.9,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad13,19",
+    "name": "iPad (10th generation)",
+    "screen": {
+      "diagonal": 10.9,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad14,1",
+    "name": "iPad mini (6th generation)",
+    "screen": {
+      "diagonal": 8.3,
+      "logical_height": 1133,
+      "logical_width": 744,
+      "physical_height": 2266,
+      "physical_width": 1488,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad14,2",
+    "name": "iPad mini (6th generation)",
+    "screen": {
+      "diagonal": 8.3,
+      "logical_height": 1133,
+      "logical_width": 744,
+      "physical_height": 2266,
+      "physical_width": 1488,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad14,3",
+    "name": "iPad Pro 11-inch (4th generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad14,4",
+    "name": "iPad Pro 11-inch (4th generation)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1194,
+      "logical_width": 834,
+      "physical_height": 2388,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad14,5",
+    "name": "iPad Pro 12.9-inch (6th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad14,6",
+    "name": "iPad Pro 12.9-inch (6th generation)",
+    "screen": {
+      "diagonal": 12.9,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad14,8",
+    "name": "iPad Air 11-inch (M2)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad14,9",
+    "name": "iPad Air 11-inch (M2)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad14,10",
+    "name": "iPad Air 13-inch (M2)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad14,11",
+    "name": "iPad Air 13-inch (M2)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad15,3",
+    "name": "iPad Air 11-inch (M3)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad15,4",
+    "name": "iPad Air 11-inch (M3)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad15,5",
+    "name": "iPad Air 13-inch (M3)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad15,6",
+    "name": "iPad Air 13-inch (M3)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1366,
+      "logical_width": 1024,
+      "physical_height": 2732,
+      "physical_width": 2048,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad15,7",
+    "name": "iPad (A16)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad15,8",
+    "name": "iPad (A16)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1180,
+      "logical_width": 820,
+      "physical_height": 2360,
+      "physical_width": 1640,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad16,1",
+    "name": "iPad mini (A17 Pro)",
+    "screen": {
+      "diagonal": 8.3,
+      "logical_height": 1133,
+      "logical_width": 744,
+      "physical_height": 2266,
+      "physical_width": 1488,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad16,2",
+    "name": "iPad mini (A17 Pro)",
+    "screen": {
+      "diagonal": 8.3,
+      "logical_height": 1133,
+      "logical_width": 744,
+      "physical_height": 2266,
+      "physical_width": 1488,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad16,3",
+    "name": "iPad Pro 11-inch (M4)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1210,
+      "logical_width": 834,
+      "physical_height": 2420,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad16,4",
+    "name": "iPad Pro 11-inch (M4)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1210,
+      "logical_width": 834,
+      "physical_height": 2420,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad16,5",
+    "name": "iPad Pro 13-inch (M4)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1376,
+      "logical_width": 1032,
+      "physical_height": 2752,
+      "physical_width": 2064,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad16,6",
+    "name": "iPad Pro 13-inch (M4)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1376,
+      "logical_width": 1032,
+      "physical_height": 2752,
+      "physical_width": 2064,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad17,1",
+    "name": "iPad Pro 11-inch (M5)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1210,
+      "logical_width": 834,
+      "physical_height": 2420,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad17,2",
+    "name": "iPad Pro 11-inch (M5)",
+    "screen": {
+      "diagonal": 11,
+      "logical_height": 1210,
+      "logical_width": 834,
+      "physical_height": 2420,
+      "physical_width": 1668,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi",
+    "id": "iPad17,3",
+    "name": "iPad Pro 13-inch (M5)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1376,
+      "logical_width": 1032,
+      "physical_height": 2752,
+      "physical_width": 2064,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": "WiFi+Cellular",
+    "id": "iPad17,4",
+    "name": "iPad Pro 13-inch (M5)",
+    "screen": {
+      "diagonal": 13,
+      "logical_height": 1376,
+      "logical_width": 1032,
+      "physical_height": 2752,
+      "physical_width": 2064,
+      "ppi": 264
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch1,1",
+    "name": "Apple Watch (1st generation) 38mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 170,
+      "logical_width": 156,
+      "physical_height": 340,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch1,2",
+    "name": "Apple Watch (1st generation) 42mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 195,
+      "logical_width": 156,
+      "physical_height": 390,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch2,3",
+    "name": "Apple Watch Series 2 38mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 170,
+      "logical_width": 156,
+      "physical_height": 340,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch2,4",
+    "name": "Apple Watch Series 2 42mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 195,
+      "logical_width": 156,
+      "physical_height": 390,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch2,6",
+    "name": "Apple Watch Series 1 38mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 170,
+      "logical_width": 156,
+      "physical_height": 340,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch2,7",
+    "name": "Apple Watch Series 1 42mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 195,
+      "logical_width": 156,
+      "physical_height": 390,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch3,1",
+    "name": "Apple Watch Series 3 38mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 170,
+      "logical_width": 156,
+      "physical_height": 340,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch3,2",
+    "name": "Apple Watch Series 3 42mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 195,
+      "logical_width": 156,
+      "physical_height": 390,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch3,3",
+    "name": "Apple Watch Series 3 38mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 170,
+      "logical_width": 156,
+      "physical_height": 340,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch3,4",
+    "name": "Apple Watch Series 3 42mm case",
+    "screen": {
+      "diagonal": 1.337,
+      "logical_height": 195,
+      "logical_width": 156,
+      "physical_height": 390,
+      "physical_width": 312,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch4,1",
+    "name": "Apple Watch Series 4 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch4,2",
+    "name": "Apple Watch Series 4 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch4,3",
+    "name": "Apple Watch Series 4 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch4,4",
+    "name": "Apple Watch Series 4 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch5,1",
+    "name": "Apple Watch Series 5 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch5,2",
+    "name": "Apple Watch Series 5 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch5,3",
+    "name": "Apple Watch Series 5 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch5,4",
+    "name": "Apple Watch Series 5 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch5,9",
+    "name": "Apple Watch SE 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch5,10",
+    "name": "Apple Watch SE 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch5,11",
+    "name": "Apple Watch SE 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch5,12",
+    "name": "Apple Watch SE 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,1",
+    "name": "Apple Watch Series 6 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,2",
+    "name": "Apple Watch Series 6 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,3",
+    "name": "Apple Watch Series 6 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,4",
+    "name": "Apple Watch Series 6 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,6",
+    "name": "Apple Watch Series 7 41mm case",
+    "screen": {
+      "diagonal": 1.691,
+      "logical_height": 215,
+      "logical_width": 176,
+      "physical_height": 430,
+      "physical_width": 352,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,7",
+    "name": "Apple Watch Series 7 45mm case",
+    "screen": {
+      "diagonal": 1.901,
+      "logical_height": 242,
+      "logical_width": 198,
+      "physical_height": 484,
+      "physical_width": 396,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,8",
+    "name": "Apple Watch Series 7 41mm case",
+    "screen": {
+      "diagonal": 1.691,
+      "logical_height": 215,
+      "logical_width": 176,
+      "physical_height": 430,
+      "physical_width": 352,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,9",
+    "name": "Apple Watch Series 7 45mm case",
+    "screen": {
+      "diagonal": 1.901,
+      "logical_height": 242,
+      "logical_width": 198,
+      "physical_height": 484,
+      "physical_width": 396,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,10",
+    "name": "Apple Watch SE 2 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,11",
+    "name": "Apple Watch SE 2 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,12",
+    "name": "Apple Watch SE 2 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,13",
+    "name": "Apple Watch SE 2 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,14",
+    "name": "Apple Watch Series 8 41mm case",
+    "screen": {
+      "diagonal": 1.691,
+      "logical_height": 215,
+      "logical_width": 176,
+      "physical_height": 430,
+      "physical_width": 352,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch6,15",
+    "name": "Apple Watch Series 8 45mm case",
+    "screen": {
+      "diagonal": 1.901,
+      "logical_height": 242,
+      "logical_width": 198,
+      "physical_height": 484,
+      "physical_width": 396,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,16",
+    "name": "Apple Watch Series 8 41mm case",
+    "screen": {
+      "diagonal": 1.691,
+      "logical_height": 215,
+      "logical_width": 176,
+      "physical_height": 430,
+      "physical_width": 352,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch6,17",
+    "name": "Apple Watch Series 8 45mm case",
+    "screen": {
+      "diagonal": 1.901,
+      "logical_height": 242,
+      "logical_width": 198,
+      "physical_height": 484,
+      "physical_width": 396,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch6,18",
+    "name": "Apple Watch Ultra",
+    "screen": {
+      "diagonal": 1.919,
+      "logical_height": 251,
+      "logical_width": 205,
+      "physical_height": 502,
+      "physical_width": 410,
+      "ppi": 338
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch7,1",
+    "name": "Apple Watch Series 9 41mm case",
+    "screen": {
+      "diagonal": 1.691,
+      "logical_height": 215,
+      "logical_width": 176,
+      "physical_height": 430,
+      "physical_width": 352,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch7,2",
+    "name": "Apple Watch Series 9 45mm case",
+    "screen": {
+      "diagonal": 1.901,
+      "logical_height": 242,
+      "logical_width": 198,
+      "physical_height": 484,
+      "physical_width": 396,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,3",
+    "name": "Apple Watch Series 9 41mm case",
+    "screen": {
+      "diagonal": 1.691,
+      "logical_height": 215,
+      "logical_width": 176,
+      "physical_height": 430,
+      "physical_width": 352,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,4",
+    "name": "Apple Watch Series 9 45mm case",
+    "screen": {
+      "diagonal": 1.901,
+      "logical_height": 242,
+      "logical_width": 198,
+      "physical_height": 484,
+      "physical_width": 396,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch7,5",
+    "name": "Apple Watch Ultra 2",
+    "screen": {
+      "diagonal": 1.92,
+      "logical_height": 251,
+      "logical_width": 205,
+      "physical_height": 502,
+      "physical_width": 410,
+      "ppi": 338
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch7,8",
+    "name": "Apple Watch Series 10 42mm case",
+    "screen": {
+      "diagonal": 1.765,
+      "logical_height": 223,
+      "logical_width": 187,
+      "physical_height": 446,
+      "physical_width": 374,
+      "ppi": 330
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS",
+    "id": "Watch7,9",
+    "name": "Apple Watch Series 10 46mm case",
+    "screen": {
+      "diagonal": 1.96,
+      "logical_height": 248,
+      "logical_width": 208,
+      "physical_height": 496,
+      "physical_width": 416,
+      "ppi": 330
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,10",
+    "name": "Apple Watch Series 10 42mm case",
+    "screen": {
+      "diagonal": 1.765,
+      "logical_height": 223,
+      "logical_width": 187,
+      "physical_height": 446,
+      "physical_width": 374,
+      "ppi": 330
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,11",
+    "name": "Apple Watch Series 10 46mm case",
+    "screen": {
+      "diagonal": 1.96,
+      "logical_height": 248,
+      "logical_width": 208,
+      "physical_height": 496,
+      "physical_width": 416,
+      "ppi": 330
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch7,12",
+    "name": "Apple Watch Ultra 3 49mm case",
+    "screen": {
+      "diagonal": 1.95,
+      "logical_height": 257,
+      "logical_width": 211,
+      "physical_height": 514,
+      "physical_width": 422,
+      "ppi": 338
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch7,13",
+    "name": "Apple Watch SE 3 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch7,14",
+    "name": "Apple Watch SE 3 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,15",
+    "name": "Apple Watch SE 3 40mm case",
+    "screen": {
+      "diagonal": 1.549,
+      "logical_height": 197,
+      "logical_width": 162,
+      "physical_height": 394,
+      "physical_width": 324,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,16",
+    "name": "Apple Watch SE 3 44mm case",
+    "screen": {
+      "diagonal": 1.757,
+      "logical_height": 224,
+      "logical_width": 184,
+      "physical_height": 448,
+      "physical_width": 368,
+      "ppi": 326
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch7,17",
+    "name": "Apple Watch Series 11 42mm case",
+    "screen": {
+      "diagonal": 1.765,
+      "logical_height": 223,
+      "logical_width": 187,
+      "physical_height": 446,
+      "physical_width": 374,
+      "ppi": 330
+    }
+  },
+  {
+    "configurations": [],
+    "description": null,
+    "id": "Watch7,18",
+    "name": "Apple Watch Series 11 46mm case",
+    "screen": {
+      "diagonal": 1.96,
+      "logical_height": 248,
+      "logical_width": 208,
+      "physical_height": 496,
+      "physical_width": 416,
+      "ppi": 330
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,19",
+    "name": "Apple Watch Series 11 42mm case",
+    "screen": {
+      "diagonal": 1.765,
+      "logical_height": 223,
+      "logical_width": 187,
+      "physical_height": 446,
+      "physical_width": 374,
+      "ppi": 330
+    }
+  },
+  {
+    "configurations": [],
+    "description": "GPS+Cellular",
+    "id": "Watch7,20",
+    "name": "Apple Watch Series 11 46mm case",
+    "screen": {
+      "diagonal": 1.96,
+      "logical_height": 248,
+      "logical_width": 208,
+      "physical_height": 496,
+      "physical_width": 416,
+      "ppi": 330
+    }
+  }
+]

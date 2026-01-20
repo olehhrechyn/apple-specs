@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Devices",
+        "description": "Comprehensive list of Apple devices with technical specifications (screen, dimensions, ppi, etc.)",
+        "url": "api/v1/devices.json",
+        "method": "GET"
+    }
+]
